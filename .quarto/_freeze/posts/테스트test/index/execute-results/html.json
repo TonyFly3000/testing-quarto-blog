@@ -1,0 +1,15 @@
+{
+  "hash": "8460f624aba9a5830ce3c2f57e2da26b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"테스트test\"\nauthor: \"Harlow Malloc\"\ndate: \"2024-12-28\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\n\nThis is a post folder name with non english letter\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
